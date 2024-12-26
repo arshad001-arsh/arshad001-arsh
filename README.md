@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arshad001-arsh
+- 👋 Hi, I’m @arshad001-Arshad Saifi
 - 👀 I’m interested in ... AI & ML
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... ai
